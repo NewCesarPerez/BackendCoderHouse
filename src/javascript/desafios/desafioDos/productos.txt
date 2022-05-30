@@ -1,0 +1,1 @@
+[{"productID":2,"product":"Smart TV OLED LG","price":189000,"thumbNail":"./imagenes/oled.jpg"},{"productID":3,"product":"Smart TV UHD LG","price":89000,"thumbNail":"./imagenes/uhd.jpg"}]
